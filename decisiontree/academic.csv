@@ -1,0 +1,92 @@
+ID,Class,Gender (X1),Status IMT (X2),Berkacamata (X3),Pernah Sakit (X4),Gangguan Psikis (X5),Aktif Bertanya (X6),Aktif Menjawab (X7),Mengerjakan Tugas (X8),Tertarik Materi (X9),Alokasi Jam Belajar (X10),Memiliki Referensi Tambahan(X11),Browsing dan Youtube (X12),Mengulang Materi (X13),Praktek Mandiri (X14),Berdiskusi (X15),Memiliki HP(X16),Memiliki Laptop (X17),Kecukupan Kuota Internet (X18),Dukungan Suasana rumah (X19),PLN (X20),Lokasi (X21),Ketersediaan Sinyal  (X22)
+1,0,P,NORMAL,Tidak,Tidak,Tidak,Ya,Ya,Semua,Mungkin,ANTARA 5 - 10 JAM,Ada,Ya,Kadang-kadang,Kadang-kadang,Ya,Ya,Ya,Tidak,Kadang-kadang,Ya,Pedesaan,Sebagian
+2,2,L,GEMUK,Ya,Tidak,Tidak,Tidak,Tidak,Semua,Mungkin,ANTARA 5 - 10 JAM,Tidak Ada,Ya,Kadang-kadang,Kadang-kadang,Tidak,Ya,Ya,Ya,Ya,Ya,Perkotaan,Ya
+3,2,P,NORMAL,Ya,Tidak,Tidak,Tidak,Tidak,Semua,Ya,KURANG DARI 5 JAM,Tidak Ada,Ya,Kadang-kadang,Kadang-kadang,Ya,Ya,Ya,Ya,Ya,Ya,Perkotaan,Sebagian
+4,2,P,NORMAL,Tidak,Ya,Tidak,Tidak,Tidak,Semua,Mungkin,KURANG DARI 5 JAM,Tidak Ada,Ya,Kadang-kadang,Ya,Ya,Ya,Ya,Ya,Kadang-kadang,Ya,Perkotaan,Ya
+5,0,P,NORMAL,Tidak,Ya,Ya,Ya,Ya,Semua,Ya,KURANG DARI 5 JAM,Ada,Ya,Kadang-kadang,Kadang-kadang,Ya,Ya,Ya,Kadang-kadang,Ya,Ya,Perkotaan,Sebagian
+6,0,P,NORMAL,Ya,Ya,Tidak,Ya,Ya,Semua,Ya, LEBIH DARI 10 JAM,Tidak Ada,Ya,Kadang-kadang,Ya,Ya,Ya,Ya,Kadang-kadang,Kadang-kadang,Ya,Pesisir,Sebagian
+7,1,L,NORMAL,Tidak,Tidak,Tidak,Ya,Ya,Semua,Ya,ANTARA 5 - 10 JAM,Ada,Ya,Ya,Ya,Ya,Ya,Ya,Ya,Ya,Ya,Pesisir,Ya
+8,2,L,NORMAL,Tidak,Ya,Ya,Tidak,Tidak,Semua,Ya,KURANG DARI 5 JAM,Ada,Tidak,Kadang-kadang,Kadang-kadang,Ya,Ya,Ya,Ya,Ya,Ya,Perkotaan,Ya
+9,1,L,NORMAL,Tidak,Tidak,Tidak,Ya,Ya,Semua,Mungkin,KURANG DARI 5 JAM,Tidak Ada,Ya,Ya,Ya,Kadang-kadang,Ya,Ya,Ya,Ya,Ya,Perkotaan,Ya
+10,1,L,KURUS,Tidak,Tidak,Tidak,Ya,Tidak,Semua,Ya,KURANG DARI 5 JAM,Ada,Ya,Kadang-kadang,Kadang-kadang,Tidak,Ya,Ya,Ya,Ya,Ya,Pedesaan,Ya
+11,2,P,NORMAL,Tidak,Tidak,Tidak,Ya,Tidak,Semua,Mungkin,KURANG DARI 5 JAM,Tidak Ada,Ya,Kadang-kadang,Kadang-kadang,Ya,Ya,Ya,Kadang-kadang,Kadang-kadang,Ya,Pedesaan,Sebagian
+12,2,P,NORMAL,Tidak,Tidak,Tidak,Tidak,Tidak,Semua,Ya,KURANG DARI 5 JAM,Tidak Ada,Ya,Kadang-kadang,Kadang-kadang,Ya,Ya,Ya,Ya,Kadang-kadang,Ya,Pedesaan,Sebagian
+13,2,P,NORMAL,Tidak,Tidak,Tidak,Ya,Ya,Semua,Mungkin,KURANG DARI 5 JAM,Ada,Ya,Kadang-kadang,Kadang-kadang,Ya,Ya,Tidak,Kadang-kadang,Kadang-kadang,Ya,Perkotaan,Sebagian
+14,0,P,NORMAL,Tidak,Tidak,Tidak,Ya,Tidak,Semua,Ya,KURANG DARI 5 JAM,Ada,Ya,Kadang-kadang,Ya,Ya,Ya,Ya,Kadang-kadang,Ya,Ya,Pedesaan,Sebagian
+15,2,P,NORMAL,Ya,Ya,Tidak,Ya,Ya,Semua,Mungkin,KURANG DARI 5 JAM,Tidak Ada,Tidak,Kadang-kadang,Kadang-kadang,Ya,Ya,Ya,Ya,Ya,Ya,Pedesaan,Ya
+16,0,L,NORMAL,Ya,Tidak,Tidak,Ya,Tidak,Semua,Ya,KURANG DARI 5 JAM,Ada,Ya,Kadang-kadang,Ya,Ya,Ya,Ya,Ya,Kadang-kadang,Ya,Pedesaan,Sebagian
+17,0,P,NORMAL,Tidak,Tidak,Tidak,Ya,Tidak,Semua,Ya,KURANG DARI 5 JAM,Tidak Ada,Ya,Kadang-kadang,Ya,Ya,Ya,Ya,Kadang-kadang,Kadang-kadang,Ya,Pedesaan,Sebagian
+18,0,P,NORMAL,Ya,Ya,Tidak,Ya,Tidak,Semua,Ya,KURANG DARI 5 JAM,Ada,Ya,Kadang-kadang,Ya,Ya,Ya,Ya,Ya,Kadang-kadang,Ya,Pedesaan,Sebagian
+19,1,P,NORMAL,Tidak,Tidak,Tidak,Ya,Tidak,Semua,Mungkin,KURANG DARI 5 JAM,Ada,Ya,Ya,Ya,Ya,Ya,Ya,Kadang-kadang,Ya,Ya,Perkotaan,Ya
+20,2,P,NORMAL,Ya,Tidak,Tidak,Tidak,Ya,Semua,Mungkin,KURANG DARI 5 JAM,Tidak Ada,Ya,Ya,Kadang-kadang,Ya,Ya,Ya,Ya,Ya,Ya,Pedesaan,Sebagian
+21,1,P,NORMAL,Tidak,Tidak,Tidak,Ya,Ya,Semua,Ya,ANTARA 5 - 10 JAM,Ada,Ya,Ya,Kadang-kadang,Ya,Ya,Ya,Ya,Ya,Ya,Perkotaan,Ya
+22,0,L,NORMAL,Tidak,Ya,Tidak,Tidak,Tidak,Semua,Ya,KURANG DARI 5 JAM,Ada,Ya,Kadang-kadang,Ya,Ya,Ya,Ya,Kadang-kadang,Kadang-kadang,Ya,Pedesaan,Sebagian
+23,0,L,NORMAL,Ya,Tidak,Ya,Ya,Tidak,Semua,Mungkin,KURANG DARI 5 JAM,Ada,Ya,Kadang-kadang,Ya,Ya,Tidak,Ya,Kadang-kadang,Tidak,Ya,Perkotaan,Sebagian
+24,0,P,NORMAL,Tidak,Ya,Ya,Tidak,Tidak,Semua,Ya, LEBIH DARI 10 JAM,Ada,Ya,Kadang-kadang,Kadang-kadang,Ya,Ya,Ya,Ya,Kadang-kadang,Ya,Pedesaan,Sebagian
+25,1,P,NORMAL,Tidak,Ya,Tidak,Tidak,Tidak,Semua,Mungkin,KURANG DARI 5 JAM,Tidak Ada,Ya,Ya,Ya,Ya,Ya,Ya,Ya,Ya,Ya,Perkotaan,Ya
+26,2,L,NORMAL,Tidak,Tidak,Tidak,Tidak,Ya,Semua,Ya,KURANG DARI 5 JAM,Ada,Ya,Ya,Kadang-kadang,Kadang-kadang,Ya,Ya,Kadang-kadang,Kadang-kadang,Ya,Pedesaan,Sebagian
+27,1,L,NORMAL,Tidak,Tidak,Tidak,Ya,Ya,Semua,Ya,KURANG DARI 5 JAM,Ada,Ya,Kadang-kadang,Ya,Ya,Ya,Ya,Ya,Ya,Ya,Pedesaan,Ya
+28,1,P,KURUS,Tidak,Tidak,Tidak,Tidak,Ya,Semua,Mungkin,KURANG DARI 5 JAM,Ada,Ya,Ya,Ya,Ya,Ya,Ya,Ya,Ya,Ya,Perkotaan,Ya
+29,1,L,NORMAL,Tidak,Tidak,Tidak,Ya,Ya,Semua,Ya,KURANG DARI 5 JAM,Tidak Ada,Ya,Ya,Kadang-kadang,Ya,Ya,Ya,Ya,Ya,Ya,Perkotaan,Ya
+30,0,P,OBESITAS,Tidak,Tidak,Tidak,Tidak,Tidak,Semua,Ya,KURANG DARI 5 JAM,Ada,Ya,Ya,Ya,Ya,Ya,Tidak,Ya,Tidak,Ya,Perkotaan,Sebagian
+31,0,P,NORMAL,Tidak,Ya,Ya,Ya,Ya,Semua,Ya,ANTARA 5 - 10 JAM,Ada,Ya,Kadang-kadang,Ya,Ya,Ya,Ya,Kadang-kadang,Ya,Ya,Perkotaan,Ya
+32,0,P,NORMAL,Ya,Ya,Ya,Tidak,Tidak,Semua,Ya,KURANG DARI 5 JAM,Ada,Ya,Kadang-kadang,Kadang-kadang,Ya,Ya,Ya,Ya,Kadang-kadang,Ya,Pedesaan,Sebagian
+33,0,P,GEMUK,Ya,Tidak,Tidak,Tidak,Tidak,Semua,Ya,KURANG DARI 5 JAM,Ada,Ya,Kadang-kadang,Kadang-kadang,Ya,Ya,Ya,Ya,Kadang-kadang,Ya,Pedesaan,Sebagian
+34,1,P,KURUS,Tidak,Tidak,Tidak,Tidak,Tidak,Semua,Mungkin,KURANG DARI 5 JAM,Tidak Ada,Ya,Ya,Kadang-kadang,Kadang-kadang,Ya,Ya,Ya,Ya,Ya,Pedesaan,Ya
+35,1,L,NORMAL,Tidak,Tidak,Tidak,Tidak,Ya,Semua,Ya,KURANG DARI 5 JAM,Ada,Ya,Ya,Ya,Kadang-kadang,Ya,Ya,Ya,Kadang-kadang,Ya,Pesisir,Sebagian
+36,1,P,NORMAL,Tidak,Tidak,Tidak,Ya,Ya,Semua,Mungkin,ANTARA 5 - 10 JAM,Ada,Ya,Ya,Ya,Ya,Ya,Ya,Ya,Ya,Ya,Perkotaan,Ya
+37,1,L,NORMAL,Ya,Ya,Tidak,Ya,Ya,Semua,Ya,ANTARA 5 - 10 JAM,Ada,Ya,Ya,Kadang-kadang,Ya,Ya,Ya,Ya,Ya,Ya,Pedesaan,Sebagian
+38,1,L,NORMAL,Ya,Tidak,Tidak,Tidak,Tidak,Semua,Ya,ANTARA 5 - 10 JAM,Ada,Ya,Ya,Ya,Kadang-kadang,Ya,Ya,Ya,Ya,Ya,Perkotaan,Ya
+39,2,L,NORMAL,Tidak,Tidak,Tidak,Tidak,Tidak,Semua,Mungkin,ANTARA 5 - 10 JAM,Ada,Ya,Kadang-kadang,Kadang-kadang,Ya,Ya,Ya,Kadang-kadang,Kadang-kadang,Tidak,Pedesaan,Sebagian
+40,0,L,OBESITAS,Tidak,Ya,Ya,Tidak,Tidak,Semua,Ya,KURANG DARI 5 JAM,Ada,Ya,Kadang-kadang,Kadang-kadang,Ya,Ya,Ya,Kadang-kadang,Tidak,Ya,Pedesaan,Ya
+41,2,L,NORMAL,Tidak,Tidak,Tidak,Ya,Ya,Semua,Mungkin,KURANG DARI 5 JAM,Tidak Ada,Ya,Kadang-kadang,Kadang-kadang,Ya,Ya,Ya,Kadang-kadang,Ya,Ya,Perkotaan,Sebagian
+42,1,L,NORMAL,Ya,Tidak,Tidak,Tidak,Tidak,Semua,Ya,ANTARA 5 - 10 JAM,Tidak Ada,Ya,Ya,Kadang-kadang,Kadang-kadang,Ya,Ya,Ya,Ya,Ya,Perkotaan,Ya
+43,1,L,NORMAL,Tidak,Tidak,Tidak,Tidak,Ya,Semua,Ya,KURANG DARI 5 JAM,Ada,Ya,Ya,Ya,Ya,Ya,Ya,Ya,Ya,Ya,Pedesaan,Sebagian
+44,2,L,OBESITAS,Tidak,Tidak,Tidak,Tidak,Ya,Semua,Mungkin,KURANG DARI 5 JAM,Ada,Ya,Kadang-kadang,Kadang-kadang,Ya,Ya,Tidak,Ya,Ya,Ya,Perkotaan,Ya
+45,0,P,NORMAL,Ya,Ya,Ya,Tidak,Tidak,Semua,Mungkin,ANTARA 5 - 10 JAM,Ada,Ya,Ya,Ya,Ya,Ya,Tidak,Kadang-kadang,Kadang-kadang,Ya,Pedesaan,Sebagian
+46,1,L,NORMAL,Tidak,Tidak,Tidak,Tidak,Ya,Semua,Ya,KURANG DARI 5 JAM,Ada,Ya,Ya,Kadang-kadang,Kadang-kadang,Ya,Ya,Ya,Ya,Ya,Perkotaan,Ya
+47,2,L,NORMAL,Tidak,Ya,Tidak,Tidak,Tidak,Semua,Mungkin,KURANG DARI 5 JAM,Tidak Ada,Ya,Kadang-kadang,Kadang-kadang,Ya,Ya,Ya,Ya,Ya,Ya,Pedesaan,Ya
+48,2,L,NORMAL,Ya,Tidak,Ya,Tidak,Ya,Semua,Mungkin,KURANG DARI 5 JAM,Tidak Ada,Ya,Kadang-kadang,Kadang-kadang,Ya,Ya,Ya,Ya,Kadang-kadang,Ya,Perkotaan,Ya
+49,1,P,NORMAL,Ya,Ya,Tidak,Ya,Ya,Semua,Ya,KURANG DARI 5 JAM,Ada,Ya,Kadang-kadang,Ya,Ya,Ya,Ya,Ya,Ya,Ya,Perkotaan,Ya
+50,0,P,NORMAL,Ya,Ya,Tidak,Tidak,Ya,Semua,Ya,KURANG DARI 5 JAM,Ada,Ya,Ya,Ya,Ya,Ya,Ya,Kadang-kadang,Tidak,Ya,Perkotaan,Tidak
+51,1,P,NORMAL,Ya,Tidak,Tidak,Tidak,Tidak,Semua,Mungkin,ANTARA 5 - 10 JAM,Ada,Ya,Ya,Ya,Kadang-kadang,Ya,Ya,Ya,Ya,Ya,Pedesaan,Sebagian
+52,2,P,GEMUK,Tidak,Tidak,Tidak,Tidak,Tidak,Semua,Mungkin,KURANG DARI 5 JAM,Ada,Ya,Ya,Ya,Ya,Ya,Ya,Tidak,Ya,Ya,Pedesaan,Ya
+53,0,P,OBESITAS,Ya,Ya,Tidak,Tidak,Tidak,Semua,Mungkin,ANTARA 5 - 10 JAM,Ada,Ya,Kadang-kadang,Kadang-kadang,Kadang-kadang,Ya,Ya,Tidak,Ya,Ya,Perkotaan,Tidak
+54,1,P,NORMAL,Ya,Ya,Tidak,Tidak,Tidak,Semua,Ya,KURANG DARI 5 JAM,Ada,Ya,Ya,Kadang-kadang,Ya,Ya,Ya,Ya,Ya,Ya,Pedesaan,Ya
+55,0,P,NORMAL,Ya,Ya,Tidak,Ya,Ya,Semua,Ya,KURANG DARI 5 JAM,Ada,Tidak,Kadang-kadang,Kadang-kadang,Ya,Ya,Ya,Kadang-kadang,Kadang-kadang,Ya,Pedesaan,Sebagian
+56,1,P,KURUS,Ya,Tidak,Tidak,Tidak,Tidak,Semua,Ya,KURANG DARI 5 JAM,Ada,Ya,Ya,Ya,Ya,Ya,Ya,Ya,Ya,Ya,Pedesaan,Ya
+57,2,P,GEMUK,Tidak,Tidak,Tidak,Tidak,Tidak,Semua,Mungkin,ANTARA 5 - 10 JAM,Tidak Ada,Ya,Kadang-kadang,Kadang-kadang,Ya,Ya,Ya,Ya,Kadang-kadang,Ya,Pedesaan,Sebagian
+58,1,L,KURUS,Ya,Tidak,Tidak,Tidak,Tidak,Semua,Ya,KURANG DARI 5 JAM,Tidak Ada,Ya,Kadang-kadang,Ya,Kadang-kadang,Ya,Ya,Ya,Kadang-kadang,Ya,Perkotaan,Ya
+59,2,L,NORMAL,Tidak,Ya,Tidak,Tidak,Tidak,Semua,Ya,KURANG DARI 5 JAM,Tidak Ada,Ya,Kadang-kadang,Kadang-kadang,Kadang-kadang,Ya,Tidak,Ya,Kadang-kadang,Ya,Perkotaan,Ya
+60,1,L,KURUS,Tidak,Tidak,Tidak,Tidak,Ya,Semua,Ya,KURANG DARI 5 JAM,Ada,Ya,Kadang-kadang,Ya,Ya,Ya,Ya,Ya,Ya,Ya,Pedesaan,Sebagian
+61,0,P,GEMUK,Ya,Ya,Ya,Ya,Ya,Semua,Ya,ANTARA 5 - 10 JAM,Ada,Ya,Ya,Ya,Ya,Ya,Ya,Kadang-kadang,Ya,Ya,Pedesaan,Sebagian
+62,1,P,GEMUK,Ya,Tidak,Tidak,Tidak,Tidak,Semua,Ya,KURANG DARI 5 JAM,Ada,Ya,Ya,Ya,Ya,Ya,Ya,Ya,Ya,Ya,Pedesaan,Ya
+63,1,L,NORMAL,Tidak,Tidak,Tidak,Ya,Ya,Semua,Ya,KURANG DARI 5 JAM,Ada,Ya,Ya,Kadang-kadang,Ya,Ya,Ya,Ya,Ya,Ya,Pedesaan,Ya
+64,1,P,NORMAL,Tidak,Ya,Ya,Tidak,Tidak,Semua,Ya,ANTARA 5 - 10 JAM,Ada,Ya,Ya,Kadang-kadang,Kadang-kadang,Ya,Ya,Ya,Ya,Ya,Perkotaan,Ya
+65,2,L,KURUS,Ya,Tidak,Tidak,Tidak,Tidak,Semua,Mungkin,KURANG DARI 5 JAM,Ada,Ya,Kadang-kadang,Kadang-kadang,Kadang-kadang,Ya,Ya,Kadang-kadang,Tidak,Ya,Perkotaan,Ya
+66,0,L,NORMAL,Tidak,Ya,Tidak,Ya,Ya,Semua,Ya,ANTARA 5 - 10 JAM,Ada,Ya,Kadang-kadang,Kadang-kadang,Ya,Ya,Ya,Ya,Kadang-kadang,Ya,Pedesaan,Tidak
+67,0,P,NORMAL,Ya,Ya,Ya,Tidak,Tidak,Semua,Mungkin,KURANG DARI 5 JAM,Tidak Ada,Ya,Kadang-kadang,Kadang-kadang,Ya,Ya,Ya,Kadang-kadang,Kadang-kadang,Ya,Pedesaan,Sebagian
+68,1,L,NORMAL,Tidak,Tidak,Tidak,Ya,Ya,Semua,Ya,KURANG DARI 5 JAM,Ada,Ya,Kadang-kadang,Ya,Ya,Ya,Ya,Ya,Kadang-kadang,Ya,Perkotaan,Ya
+69,2,P,KURUS,Tidak,Ya,Tidak,Tidak,Tidak,Semua,Mungkin,ANTARA 5 - 10 JAM,Tidak Ada,Ya,Ya,Kadang-kadang,Ya,Ya,Ya,Ya,Kadang-kadang,Ya,Pedesaan,Sebagian
+70,2,P,NORMAL,Ya,Tidak,Tidak,Tidak,Tidak,Semua,Mungkin,KURANG DARI 5 JAM,Tidak Ada,Ya,Kadang-kadang,Kadang-kadang,Ya,Ya,Ya,Kadang-kadang,Kadang-kadang,Ya,Perkotaan,Sebagian
+71,2,L,NORMAL,Tidak,Tidak,Tidak,Tidak,Tidak,Semua,Mungkin,KURANG DARI 5 JAM,Ada,Ya,Kadang-kadang,Kadang-kadang,Ya,Ya,Ya,Ya,Kadang-kadang,Ya,Pedesaan,Sebagian
+72,0,P,GEMUK,Ya,Tidak,Tidak,Ya,Ya,Semua,Ya, LEBIH DARI 10 JAM,Tidak Ada,Ya,Ya,Ya,Ya,Ya,Ya,Kadang-kadang,Kadang-kadang,Ya,Perkotaan,Sebagian
+73,0,L,OBESITAS,Tidak,Ya,Ya,Ya,Ya,Semua,Ya,KURANG DARI 5 JAM,Ada,Ya,Kadang-kadang,Kadang-kadang,Ya,Ya,Ya,Ya,Ya,Tidak,Pedesaan,Sebagian
+74,0,L,OBESITAS,Ya,Tidak,Ya,Tidak,Ya,Semua,Ya,KURANG DARI 5 JAM,Ada,Ya,Kadang-kadang,Ya,Kadang-kadang,Ya,Ya,Ya,Kadang-kadang,Ya,Pedesaan,Sebagian
+75,2,L,NORMAL,Ya,Tidak,Tidak,Tidak,Ya,Semua,Mungkin,KURANG DARI 5 JAM,Tidak Ada,Tidak,Kadang-kadang,Kadang-kadang,Ya,Ya,Ya,Ya,Ya,Ya,Pedesaan,Ya
+76,2,L,NORMAL,Tidak,Tidak,Tidak,Tidak,Tidak,Semua,Mungkin,KURANG DARI 5 JAM,Ada,Ya,Kadang-kadang,Kadang-kadang,Ya,Ya,Ya,Kadang-kadang,Kadang-kadang,Ya,Perkotaan,Ya
+77,2,P,OBESITAS,Ya,Ya,Tidak,Tidak,Tidak,Sebagian,Ya,KURANG DARI 5 JAM,Ada,Ya,Kadang-kadang,Kadang-kadang,Ya,Ya,Ya,Ya,Kadang-kadang,Ya,Perkotaan,Ya
+78,3,L,NORMAL,Tidak,Tidak,Tidak,Tidak,Ya,Sebagian,Tidak,KURANG DARI 5 JAM,Tidak Ada,Ya,Kadang-kadang,Kadang-kadang,Kadang-kadang,Ya,Tidak,Kadang-kadang,Kadang-kadang,Tidak,Pedesaan,Sebagian
+79,3,L,NORMAL,Tidak,Tidak,Ya,Tidak,Tidak,Sebagian,Ya,KURANG DARI 5 JAM,Tidak Ada,Ya,Kadang-kadang,Kadang-kadang,Kadang-kadang,Ya,Tidak,Kadang-kadang,Ya,Ya,Pedesaan,Ya
+80,1,L,NORMAL,Tidak,Tidak,Tidak,Tidak,Ya,Semua,Ya,ANTARA 5 - 10 JAM,Ada,Ya,Ya,Ya,Ya,Ya,Ya,Ya,Tidak,Ya,Pesisir,Sebagian
+81,0,L,KURUS,Ya,Ya,Tidak,Tidak,Tidak,Semua,Ya,ANTARA 5 - 10 JAM,Ada,Ya,Ya,Ya,Kadang-kadang,Ya,Ya,Tidak,Tidak,Ya,Perkotaan,Sebagian
+82,1,P,NORMAL,Tidak,Tidak,Tidak,Tidak,Tidak,Semua,Mungkin,ANTARA 5 - 10 JAM,Tidak Ada,Ya,Kadang-kadang,Ya,Kadang-kadang,Ya,Ya,Ya,Ya,Ya,Perkotaan,Ya
+83,0,P,NORMAL,Tidak,Ya,Tidak,Tidak,Tidak,Semua,Ya,KURANG DARI 5 JAM,Ada,Ya,Ya,Ya,Ya,Ya,Ya,Ya,Kadang-kadang,Ya,Pedesaan,Sebagian
+84,0,L,NORMAL,Ya,Ya,Tidak,Tidak,Tidak,Semua,Ya,KURANG DARI 5 JAM,Tidak Ada,Tidak,Ya,Kadang-kadang,Ya,Ya,Ya,Kadang-kadang,Tidak,Ya,Perkotaan,Sebagian
+85,2,L,NORMAL,Tidak,Ya,Tidak,Tidak,Tidak,Semua,Mungkin,KURANG DARI 5 JAM,Tidak Ada,Ya,Kadang-kadang,Kadang-kadang,Ya,Ya,Ya,Kadang-kadang,Ya,Ya,Perkotaan,Ya
+86,1,L,NORMAL,Tidak,Ya,Tidak,Ya,Ya,Semua,Ya,KURANG DARI 5 JAM,Ada,Ya,Ya,Ya,Ya,Ya,Ya,Ya,Ya,Ya,Pedesaan,Ya
+87,1,L,NORMAL,Tidak,Tidak,Tidak,Ya,Ya,Semua,Ya,KURANG DARI 5 JAM,Tidak Ada,Ya,Kadang-kadang,Kadang-kadang,Ya,Ya,Ya,Ya,Ya,Ya,Pedesaan,Sebagian
+88,2,L,NORMAL,Tidak,Ya,Tidak,Tidak,Tidak,Semua,Mungkin, LEBIH DARI 10 JAM,Ada,Ya,Kadang-kadang,Kadang-kadang,Ya,Ya,Ya,Ya,Ya,Ya,Perkotaan,Ya
+89,0,L,OBESITAS,Ya,Ya,Ya,Ya,Ya,Semua,Mungkin,ANTARA 5 - 10 JAM,Ada,Ya,Kadang-kadang,Kadang-kadang,Ya,Ya,Ya,Ya,Kadang-kadang,Ya,Perkotaan,Sebagian
+90,1,L,NORMAL,Tidak,Tidak,Tidak,Ya,Ya,Semua,Ya,KURANG DARI 5 JAM,Tidak Ada,Ya,Kadang-kadang,Kadang-kadang,Kadang-kadang,Ya,Ya,Ya,Ya,Ya,Perkotaan,Sebagian
+91,2,L,KURUS,Tidak,Ya,Tidak,Tidak,Tidak,Semua,Mungkin,KURANG DARI 5 JAM,Ada,Ya,Kadang-kadang,Kadang-kadang,Ya,Ya,Ya,Ya,Kadang-kadang,Ya,Pedesaan,Sebagian
